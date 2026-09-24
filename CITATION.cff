@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Controlled Evaluation of RCGAN-Based Synthetic Augmentation for Cervical Cytology Image Classification"
+message: "If you use this repository or its computational implementation, please cite the associated research article and the archived repository version."
+type: software
+
+authors:
+  - given-names: "H."
+    family-names: "Aswini"
+    email: "aswini.h2023@vitstudent.ac.in"
+    affiliation: "Vellore Institute of Technology, Chennai, India"
+  - given-names: "Benil"
+    family-names: "T"
+    email: "benil.t@vit.ac.in"
+    affiliation: "Vellore Institute of Technology, Chennai, India"
+
+repository-code: "https://github.com/Aswini-Hari/Controlled-RCGAN-Cervical-Cytology"

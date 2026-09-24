@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment and local configuration
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model checkpoints and generated artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Generated experiment outputs
+outputs/
+results/
+checkpoints/
+runs/
+
+# Temporary files
+*.tmp
+*.temp
